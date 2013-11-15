@@ -1,0 +1,12 @@
+# NO BACKUP FILES
+*~
+
+# No object files
+*.o
+*.a
+
+# No output images (PLEASE no)
+*.ppm
+
+# Ignore Doxygen output
+lib/doc/*/
